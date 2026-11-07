@@ -1,8 +1,8 @@
 class Cv < Formula
   desc "Convert big videos (MKV/MP4 remux, compress, trim, join) and photos on macOS"
   homepage "https://github.com/touchfalls/cv"
-  url "https://github.com/touchfalls/cv/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "b255e3e2517c9ca0fdf4f05280a900594fe02dcb1ffc46de590eb5208acd6060"
+  url "https://github.com/touchfalls/cv/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "b0aa6c47e2c58e555af207230062ab5d99073f78194012c660d2748363875d37"
   license "PolyForm-Noncommercial-1.0.0"
 
   depends_on "go" => :build
