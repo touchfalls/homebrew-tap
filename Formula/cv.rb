@@ -1,4 +1,3 @@
-# Шаблон формулы для touchfalls/homebrew-tap. Версию и sha256 подставляет release.sh.
 class Cv < Formula
   desc "Convert big videos (MKV/MP4 remux, compress, trim, join) and photos on macOS"
   homepage "https://github.com/touchfalls/cv"
